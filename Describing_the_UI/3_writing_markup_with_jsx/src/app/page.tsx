@@ -18,7 +18,7 @@ export default function Home() {
       <h1 className="mt-3">JSX: Putting markup into JavaScript</h1>
       <div>
         The Web has been built on HTML, CSS, and JavaScript. For many years, web
-        developers kept content in HTML, design in CSS, and logic in JavaScript{" "}
+        developers kept content in HTML, design in CSS, and logic in JavaScript
         <br /> often in separate files! Content was marked up inside HTML while
         the page’s logic lived separately in JavaScript:
       </div>
